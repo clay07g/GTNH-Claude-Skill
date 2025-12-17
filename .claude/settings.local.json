@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(./gradlew build:*)",
+      "Bash(./gradlew run:*)",
+      "Bash(tree:*)",
+      "Bash(sqlite3:*)",
+      "Bash(./gradlew tasks:*)",
+      "Bash(./gradlew buildSkill:*)",
+      "Bash(java -jar gtnh-skill.jar query:*)"
+    ]
+  }
+}
