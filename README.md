@@ -7,6 +7,14 @@ The skill is powered by a JVM CLI application that can index and query data from
 
 ![example.png](example.png)
 
+## Adding to Claude Desktop
+
+1. Download the latest release zip from the [releases page](https://github.com/clay2000/gtnh-claude-skill/releases).
+2. Open Claude Desktop -> Capabilities -> Skills -> Add
+3. Drop the zip file into the window
+
+You can update the skill at any time by re-downloading the zip and replacing the existing one in Claude Desktop.
+
 ## Features
 
 - Index quest data from any GTNH installation
